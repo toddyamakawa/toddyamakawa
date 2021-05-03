@@ -1,4 +1,4 @@
-### Aloha, I'm Todd Yamakawa!
+### 🌴 Aloha, I'm Todd Yamakawa! 🌴
 
 
 
