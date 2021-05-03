@@ -8,13 +8,13 @@
 
 
 ---
-### 📈 My GitHub Stats
+### 📈 My GitHub Stats 📈
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toddyamakawa)
 
 ![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=toddyamakawa&hide=css,tcl)
 
 ---
-### Where to Find Me
+### 📫 Where to Find Me 📫
 - 🤝 [LinkedIn](https://www.linkedin.com/in/toddyamakawa/)
 
 
@@ -51,6 +51,8 @@ https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg
 Search for Icons:
 - https://github.com/devicons/devicon/tree/master/icons
 - https://worldvectorlogo.com/
+
+GitHub stats: https://github.com/anuraghazra/github-readme-stats
 
 Here are some ideas to get you started:
 
